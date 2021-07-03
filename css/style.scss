@@ -1,0 +1,47 @@
+body {
+    background: #1D2329 !important;
+    color: white !important;
+}
+
+//Header
+
+.header {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 90px;
+    background: #000000;
+    h2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+    }
+
+}
+
+.bg-navbar {
+    background: #454545;
+}
+
+.bg-card {
+    background: #181818 !important;
+    color: white;
+}
+
+.footer {
+    display: grid;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    background: #0F0F0F;
+    height: 120px;
+    h4 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+    }
+}
+
+.form-group {
+    margin-right: -10px;
+}
+

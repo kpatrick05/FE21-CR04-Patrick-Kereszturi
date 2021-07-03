@@ -1,0 +1,60 @@
+let moovies = `
+  [
+    {
+        "movieName": "Inception",
+        "image": "../img/inception.jpg",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "likes": 0
+    },
+    {
+        "movieName": "Shutter Island",
+        "image": "../img/shutter.jpg",
+        "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+        "likes": 0
+    },
+    {
+        "movieName": "Casino Royale",
+        "image": "../img/casino.jpg",
+        "description": "After earning 00 status and a licence to kill, Secret Agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, Montenegro.",
+        "likes": 0
+    },
+    {
+        "movieName": "Alpha",
+        "image": "../img/alpha.jpg",
+        "description": "In the prehistoric past, a young man struggles to return home after being separated from his tribe during a buffalo hunt. He finds a similarly lost wolf companion and starts a friendship that would change humanity.",
+        "likes": 0
+    },
+    {
+        "movieName": "Army Of The Dead",
+        "image": "../img/army.jpg",
+        "description": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+        "likes": 0
+    },
+    {
+        "movieName": "Ford v Ferrari",
+        "image": "../img/ford.jpg",
+        "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "likes": 0
+    },
+    {
+        "movieName": "No Time to die",
+        "image": "../img/notime.jpg",
+        "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "likes": 0
+    },
+    {
+        "movieName": "Back To The Future",
+        "image": "../img/back.jpg",
+        "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+        "likes": 0
+    },
+    {
+        "movieName": "Lock, Stock and Two Smoking Barrels",
+        "image": "../img/lock.jpg",
+        "description": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+        "likes": 0
+    }
+] `
+
+
+
