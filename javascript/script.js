@@ -19,7 +19,7 @@ text += `
       <div class="card-body">
         <h5 class="card-title">${val.movieName}</h5>
         <hr>
-        <p style="height: 180px;" class="card-text fs-6 text">${val.description}</p>
+        <p class="card-text">${val.description}</p>
         <p class="card-text d-flex align-items-end align-self-end"><button type="button" class="btn btn-success btnShow">
       
         Like
@@ -92,7 +92,7 @@ text += `
       <div class="card-body">
         <h5 class="card-title">${val.movieName}</h5>
         <hr>
-        <p style="height: 160px;" class="card-text">${val.description}</p>
+        <p class="card-text">${val.description}</p>
         <p " class="card-text align-self-end align-items-end"><button type="button" class="btn btn-success btnShow">
       
         Like
